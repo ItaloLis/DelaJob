@@ -1,0 +1,30 @@
+.foto5{
+    width: 600px;
+    height: 600px;
+}
+
+.quemsomos{
+    color: rgb(148, 84, 180);
+}
+
+.backcolor{
+    background-color: rgb(148, 84, 180);
+}
+
+.titulo1{
+    color: rgb(148, 84, 180);
+    font-size: 80px;
+}
+
+.imagem-card{
+    height: 150px;
+}
+
+.tamanhocard{
+    height: 400px;
+}
+
+.logowhats{
+    height: 30px;
+    width: 30px;
+}

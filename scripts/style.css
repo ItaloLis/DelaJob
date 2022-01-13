@@ -1,0 +1,111 @@
+.foto5{
+    width: 600px;
+    height: 600px;
+}
+
+.quemsomos{
+    color: rgb(148, 84, 180);
+}
+
+.backcolor{
+    background-color: rgb(148, 84, 180);
+}
+
+.titulo1{
+    color: rgb(148, 84, 180);
+    font-size: 80px;
+}
+
+.imagem-card{
+    height: 150px;
+}
+
+.tamanhocard{
+    height: 400px;
+}
+
+.logowhats{
+    height: 30px;
+    width: 30px;
+}
+.letracolor{
+    color: rgb(148, 84, 180);
+  }
+
+  /*SOBRE*/
+.fotosobre{
+    padding-top: 50px;
+    max-width: 450px;
+}
+
+.val{
+    text-align: center;
+    padding: 50px 0 50px 0;
+}
+
+.valores{
+    font-size: 24px;
+    margin-top: -150px;
+    margin-bottom: 150px;
+    color: white;
+}
+.chamada{
+    background: url(mulheres-juntas.png) no-repeat bottom;
+    height: 400px;
+    background-size: cover;
+}
+
+.meio{
+    margin-top: 180px;
+}
+.roxo{
+    background-color: rgb(148, 84, 180); 
+    font-size: 25px; 
+    border-radius: 10px;
+}
+
+/*CADASTRO*/
+
+.card{
+    margin: 0 auto 100px;
+    width: 18rem;
+
+}
+
+.card-body{
+  background-color: rgb(227, 229, 231);
+}
+
+
+
+footer{
+  position: fixed;
+  bottom : 0;
+  width: 100%;
+}
+
+/*VAGAS*/
+
+.titulo-vagas{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: slategray;
+    line-height: 50px;
+}
+
+.vgimg-grid{
+    display: block;
+    margin: 0px auto -100px auto;
+}
+
+
+/*CONTATO*/
+.card-contato{
+    margin: 0 auto 100px;
+    float: none;
+    width: 42rem;
+    
+  }
+  
+  
