@@ -1,0 +1,1 @@
+DelaJob é uma organização sem fins lucrativos , cujo principal propósito é melhorar a situação de vulnerabilidade socioecômica de mulheres de baixa renda, valorização profissional e empregabilidade. Por meio de programas de capacitação de mão de obra feminina, a DelaJob promove o empoderamento feminino e geração de renda.
